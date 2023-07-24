@@ -8,6 +8,7 @@ import static org.junit.Assert.*;
 
 public class DiscountServicesTest {
      DiscountServices rs;
+
      @Before
      public void beforeInstance(){
        rs = new DiscountServices();
