@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44f3abbb-a790-4584-8e2a-25d28bcdc9a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio2/Ejercicio2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio2/TestTemperatureConverter/TemperatureConverter/TemperatureConverterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio2/src/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio2/src/TemperatureConverter/TemperatureConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestConJunit/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio1/TestDiscount/Services/DiscountServicesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio1/TestDiscount/Services/DiscountServicesTest.java" afterDir="false" />
+    <list default="true" id="44f3abbb-a790-4584-8e2a-25d28bcdc9a8" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/../Ejercicio2/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio2/src/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio2/src/TemperatureConverter/TemperatureConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio2/src/TemperatureConverter/TemperatureConverter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2T2GhBotLuPJWEq3Jk30zWD9EXl" />
   <component name="ProjectViewState">
@@ -52,6 +43,15 @@
       <option name="presentableId" value="Default" />
       <updated>1690233879065</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1690240847332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690240847332</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
